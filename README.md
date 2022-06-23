@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Elbeg Amarbayasgalan</h1>
-<h4 align="center">New Technologies and Develop Software Solutions</h4>
+<h4 align="center">Develop Software Solutions</h4>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,6 +42,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amar9elbeg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=amar9elbeg&theme=github" alt="amar9elbeg" /></p> 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
