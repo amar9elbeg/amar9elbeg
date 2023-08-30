@@ -49,13 +49,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amar9elbeg)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amar9elbeg)  
-
-![GitHub metrics](https://metrics.lecoq.io/amar9elbeg)  
+[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amar9elbeg&theme=radical&hide_border=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amar9elbeg)  
 
-![Profile views](https://gpvc.arturio.dev/amar9elbeg)  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
