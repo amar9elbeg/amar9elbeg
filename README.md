@@ -55,9 +55,12 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
 
+<p align='center'>
+    🤝🏻 &nbsp;Connect with Me
+</p>
 <p align="center">
+
 <a href="https://www.linkedin.com/in/elbeg-amar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -65,11 +68,16 @@
   <a href="https://github.com/amar9elbeg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 
 
-<p align="center">
-![image](https://github.com/amar9elbeg/amar9elbeg/assets/89896446/3bd63823-2f91-41f3-a116-3b365249ba3f)
+<p align=center>
+   <img  src="https://github.com/amar9elbeg/amar9elbeg/assets/89896446/3bd63823-2f91-41f3-a116-3b365249ba3f"/>
 </p>
------
+
+
 <p align="center">
-Credits: [Elbeg Amarbayasgalan](https://github.com/amar9elbeg)
+-----
+
+</p>
+<p align="center">
+  Credits: [Elbeg Amarbayasgalan](https://github.com/amar9elbeg)
 </p>
 
