@@ -3,12 +3,7 @@
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/amar9elbeg?color=1f222e&label=Followers&style=social" alt="amar9elbeg" /> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=amar9elbeg&label=Profile%20views&color=0e75b6&style=flat" alt="amar9elbeg" />
-</p>
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![snake animation](https://github.com/amar9elbeg/amar9elbeg/blob/output/github-contribution-grid-snake2.svg)
 
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
