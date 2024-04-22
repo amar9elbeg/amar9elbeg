@@ -1,13 +1,15 @@
 <div align="center">
-<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Elbeg Amar</h1>
+<h1 align="center">Hi 👋, I'm Elbeg Amar</h1>
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/amar9elbeg?color=1f222e&label=Followers&style=social" alt="amar9elbeg" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=amar9elbeg&label=Profile%20views&color=0e75b6&style=flat" alt="amar9elbeg" />
+</p>
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
