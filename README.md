@@ -50,7 +50,7 @@ Most of my work lives at the seams. **Apollo Federation** subgraphs that have to
 
 **API & GraphQL**
 
-![GraphQL](https://img.shields.io/badge/GraphQL-042f2e?style=for-the-badge&logo=graphql&logoColor=5eead4) ![Apollo Federation](https://img.shields.io/badge/Apollo%20Federation-042f2e?style=for-the-badge&logo=apollographql&logoColor=5eead4) ![Express](https://img.shields.io/badge/Express-042f2e?style=for-the-badge&logo=express&logoColor=5eead4) ![JWT](https://img.shields.io/badge/JWT-042f2e?style=for-the-badge&logo=jsonwebtokens&logoColor=5eead4)
+![GraphQL](https://img.shields.io/badge/GraphQL-042f2e?style=for-the-badge&logo=graphql&logoColor=5eead4) ![Apollo Federation](https://img.shields.io/badge/Apollo%20Federation-042f2e?style=for-the-badge&logo=apollographql&logoColor=5eead4) ![GraphQL Hive](https://img.shields.io/badge/GraphQL%20Hive-042f2e?style=for-the-badge&logoColor=5eead4) ![GraphQL Codegen](https://img.shields.io/badge/GraphQL%20Codegen-042f2e?style=for-the-badge&logo=graphql&logoColor=5eead4) ![Express](https://img.shields.io/badge/Express-042f2e?style=for-the-badge&logo=express&logoColor=5eead4) ![JWT](https://img.shields.io/badge/JWT-042f2e?style=for-the-badge&logo=jsonwebtokens&logoColor=5eead4)
 
 **Data**
 
@@ -64,13 +64,50 @@ Most of my work lives at the seams. **Apollo Federation** subgraphs that have to
 
 ![Jest](https://img.shields.io/badge/Jest-042f2e?style=for-the-badge&logo=jest&logoColor=5eead4) ![Testing Library](https://img.shields.io/badge/Testing%20Library-042f2e?style=for-the-badge&logo=testinglibrary&logoColor=5eead4) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-042f2e?style=for-the-badge&logo=githubactions&logoColor=5eead4) ![GitHub](https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=5eead4) ![Datadog](https://img.shields.io/badge/Datadog-042f2e?style=for-the-badge&logo=datadog&logoColor=5eead4)
 
-**AI & LLM**
+**AI & Computer Vision**
 
-![Claude](https://img.shields.io/badge/Claude-042f2e?style=for-the-badge&logo=claude&logoColor=5eead4) ![Anthropic API](https://img.shields.io/badge/Anthropic%20API-042f2e?style=for-the-badge&logo=anthropic&logoColor=5eead4) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-042f2e?style=for-the-badge&logo=modelcontextprotocol&logoColor=5eead4) ![Claude Code](https://img.shields.io/badge/Claude%20Code-042f2e?style=for-the-badge&logo=claude&logoColor=5eead4) ![RAG](https://img.shields.io/badge/RAG-042f2e?style=for-the-badge&logoColor=5eead4) ![Prompt Caching](https://img.shields.io/badge/Prompt%20Caching-042f2e?style=for-the-badge&logoColor=5eead4)
+![Python](https://img.shields.io/badge/Python-042f2e?style=for-the-badge&logo=python&logoColor=5eead4) ![PyTorch](https://img.shields.io/badge/PyTorch-042f2e?style=for-the-badge&logo=pytorch&logoColor=5eead4) ![Modal](https://img.shields.io/badge/Modal-042f2e?style=for-the-badge&logo=modal&logoColor=5eead4) ![OpenCV](https://img.shields.io/badge/OpenCV-042f2e?style=for-the-badge&logo=opencv&logoColor=5eead4) ![NumPy](https://img.shields.io/badge/NumPy-042f2e?style=for-the-badge&logo=numpy&logoColor=5eead4) ![SMPL](https://img.shields.io/badge/SMPL--X-042f2e?style=for-the-badge&logoColor=5eead4) ![GPU](https://img.shields.io/badge/GPU%20Inference-042f2e?style=for-the-badge&logo=nvidia&logoColor=5eead4)
+
+**Generative AI**
+
+![Claude](https://img.shields.io/badge/Claude-042f2e?style=for-the-badge&logo=claude&logoColor=5eead4) ![Anthropic](https://img.shields.io/badge/Anthropic%20API-042f2e?style=for-the-badge&logo=anthropic&logoColor=5eead4) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-042f2e?style=for-the-badge&logo=modelcontextprotocol&logoColor=5eead4) ![Gemini](https://img.shields.io/badge/Gemini%20Image-042f2e?style=for-the-badge&logo=googlegemini&logoColor=5eead4) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-042f2e?style=for-the-badge&logoColor=5eead4) ![Image to Video](https://img.shields.io/badge/Image--to--Video-042f2e?style=for-the-badge&logoColor=5eead4)
 
 **UI**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-042f2e?style=for-the-badge&logo=tailwindcss&logoColor=5eead4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-042f2e?style=for-the-badge&logo=shadcnui&logoColor=5eead4) ![Storybook](https://img.shields.io/badge/Storybook-042f2e?style=for-the-badge&logo=storybook&logoColor=5eead4) ![Styled Components](https://img.shields.io/badge/styled--components-042f2e?style=for-the-badge&logo=styledcomponents&logoColor=5eead4) ![DaisyUI](https://img.shields.io/badge/DaisyUI-042f2e?style=for-the-badge&logo=daisyui&logoColor=5eead4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-042f2e?style=for-the-badge&logo=tailwindcss&logoColor=5eead4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-042f2e?style=for-the-badge&logo=shadcnui&logoColor=5eead4) ![Three.js](https://img.shields.io/badge/Three.js-042f2e?style=for-the-badge&logo=threedotjs&logoColor=5eead4) ![Storybook](https://img.shields.io/badge/Storybook-042f2e?style=for-the-badge&logo=storybook&logoColor=5eead4) ![Styled Components](https://img.shields.io/badge/styled--components-042f2e?style=for-the-badge&logo=styledcomponents&logoColor=5eead4) ![DaisyUI](https://img.shields.io/badge/DaisyUI-042f2e?style=for-the-badge&logo=daisyui&logoColor=5eead4)
+
+<br />
+
+# 🧩 What I'm Building
+
+**PerFit** — size-aware virtual try-on. You upload one front photo and a garment, and it renders you wearing that garment at a real size from the size chart. Not a generic overlay: the render is driven by your actual body measurements.
+
+The interesting part is that "size-aware" is a computer vision problem before it's a generative one:
+
+```
+photo ──► body-shape model ──► 3D mesh ──► circumferences in cm
+                                              │
+garment + size chart ──────────────────────────┴──► measurement-driven prompt
+                                                          │
+                                                          ▼
+                                            generated try-on image → optional video
+```
+
+**Three services, three deployment stories:**
+
+| Service | Job | Why it's separate |
+|---|---|---|
+| **API + dashboard** | GraphQL API, job rows, object storage, queue producer, Next.js ops dashboard | Edge runtime, deploys in seconds |
+| **Try-on pipeline** | Queue consumer — validates input, builds the prompt, calls the image and video models, streams telemetry | Python, no GPU needed |
+| **Body-fit service** | Photo → measurements, on GPU | 3 GB of model weights; wakes only when called, scales to zero after |
+
+Things I've had to actually solve here:
+
+- 🧵 **Splitting by deploy weight, not by domain** — the GPU image is 3 GB. Keeping it in its own service means the rest of the system deploys fast and the GPU bill only starts when someone calls it.
+- 📐 **Making a generative model respect numbers** — image models don't take measurements as input. The measurements have to survive the trip into a prompt, and the hard constraints get appended *last* so nothing upstream can quietly drop them.
+- 🧊 **Cold starts on a 3 GB model** — memory snapshots keep it warm through a session, then it scales to zero. No idle GPU overnight, no cold start mid-use.
+- 📊 **Per-stage telemetry** — every stage of the pipeline reports back, because "the render looks wrong" is unfixable without knowing which stage produced it.
+- 🔐 **Licensing boundaries in the repo layout** — license-restricted model files never enter git; they live in a mounted volume.
 
 <br />
 
